@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>未然</title>
   
-  <subtitle>未然</subtitle>
+  <subtitle>感谢各位的来访，请在留言板上留下你的足迹</subtitle>
   <link href="https://www.wrll.tk/atom.xml" rel="self"/>
   
   <link href="https://www.wrll.tk/"/>
