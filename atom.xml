@@ -6,7 +6,7 @@
   <link href="https://www.wrll.tk/atom.xml" rel="self"/>
   
   <link href="https://www.wrll.tk/"/>
-  <updated>2021-05-15T15:55:31.318Z</updated>
+  <updated>2021-05-16T15:32:12.300Z</updated>
   <id>https://www.wrll.tk/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Docker</title>
+    <link href="https://www.wrll.tk/2021/05/16/docker/"/>
+    <id>https://www.wrll.tk/2021/05/16/docker/</id>
+    <published>2021-05-16T15:08:32.000Z</published>
+    <updated>2021-05-16T15:32:12.300Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Docker 是一个开源的容器化平台，它允许你构建，测试，并且作为可移动的容器去部署应用，这些容器可以在任何地方运行。一个容器表示一个应用的运行环境，并且包含软件运行所需要的所有依赖软件。&lt;/p&gt;
+&lt;p&gt;Docker</summary>
+        
+      
+    
+    
+    
+    <category term="教程" scheme="https://www.wrll.tk/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="教程" scheme="https://www.wrll.tk/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="Docker" scheme="https://www.wrll.tk/tags/Docker/"/>
+    
+  </entry>
   
   <entry>
     <title>镜像网站</title>
